@@ -1,0 +1,27 @@
+.leftside_main_container {
+    flex: 0.5;
+    background-color: blue;
+}
+
+.leftside_main_list {
+    padding: 10px;
+    background-color: green;
+    height: fit-content;
+}
+
+.leftside_main_list .leftside_main_list-item {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-color: aqua;
+
+}
+
+
+
+
+/* header Component */
+.Head_container_box {
+    background-color:  grey;
+}
